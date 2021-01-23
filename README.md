@@ -2,7 +2,7 @@
 
 _Software Enginner at **Hitachi Vantara VietNam**_
 
-![](https://komarev.com/ghpvc/?quanghuy1242)
+![](https://komarev.com/ghpvc/?username=quanghuy1242&label=📚&style=flat)
 
 Welcome to my **workplace**. This is where I put my code out of my brain, so let them shine in their own way.
 
