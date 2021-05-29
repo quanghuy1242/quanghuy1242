@@ -20,3 +20,4 @@ Welcome to my **workplace**. This's the place where I put my code out of my brai
 
 ## My personal blog (Vietnamese)
 - https://blog.quanghuy.dev
+- https://www.linkedin.com/in/quanghuy1242/
