@@ -4,13 +4,14 @@ _Software Enginner at **Hitachi Vantara VietNam**_
 
 ![](https://komarev.com/ghpvc/?username=quanghuy1242&label=📚&style=flat)
 
-Welcome to my **workplace**. This's a place where I put my code out of my brain, so let them shine in their own way.
+Welcome to my **workplace**. This's the place where I put my code out of my brain, so let it shine in its own way.
 
 ## Skills
-- **CloudStack**: Google Cloud Platform (GCP), Datadog
-- **DevOps**: CI/CD with Gitlab CICD and GitHub Action
+- **Cloud**: Google Cloud Platform: Serverless and Kubernetes
+- **Montoring**: Datadog
+- **DevOps**: CI/CD with Gitlab CICD, Terraform and bash scripts
 - **BackEnd**: NodeJS, Python
-- **FrontEnd**: ReactJS, Lit (LitElement, lit-html)
+- **FrontEnd**: ReactJS, Lit (lit-element and lit-html)
 - and more if I will have learned something in the future...
 
 ## Contacts
