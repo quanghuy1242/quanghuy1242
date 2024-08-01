@@ -5,7 +5,7 @@
 ```python
 async build_good_things(
   backend: BackendStuff, frontend: FrontendStuff,
-  cloud: Union[GCP, Azure], dd: Datadog *args, **kwargs
+  cloud: Union[GCP, Azure], monitor_tool: Monitoring
 ) -> None:
   # Let's build the back
   backend.build().connect(postgresql)
@@ -17,7 +17,7 @@ async build_good_things(
   cloud.host(backend, frontend)
 
   # Don't forget to monitor closely
-  dd.monitor(cloud)
+  monitor_tool.monitor(cloud)
 
 asyncio.run(ci.manage(build_good_things()))
 ```
