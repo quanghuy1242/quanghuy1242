@@ -4,14 +4,11 @@
 
 ```python
 async build_good_things(
-  backend: BackendStuff,
-  frontend: FrontendStuff,
-  cloud: Union[GCP, Azure],
-  dd: Datadog
-  *args, **kwargs
+  backend: BackendStuff, frontend: FrontendStuff,
+  cloud: Union[GCP, Azure], dd: Datadog *args, **kwargs
 ) -> None:
   # Let's build the back
-  backend.build()
+  backend.build().connect(postgresql)
 
   # Then connect with the front
   frontend.build().connect(backend)
